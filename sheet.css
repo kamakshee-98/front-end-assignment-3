@@ -1,0 +1,23 @@
+
+img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+body{
+                
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 20px;
+    color: black;
+    margin: 10px;
+    margin-left: 55px;
+    width: 700px;
+    font-size: larger;
+    background-image: linear-gradient(to right, orange,red);
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+}
